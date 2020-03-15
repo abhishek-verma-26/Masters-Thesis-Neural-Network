@@ -11,7 +11,7 @@ freeware, kCARTA, developed at UMBC. kCARTA is a pseudo line by line code develo
 of Radiative Heat Transfers through the earth’s atmosphere. It utilizes the Radiosonde measurement at
 various pressure levels of the atmosphere and thereby gives the response (i.e. the Infrared Absorption
 Spectrum) at the top of the atmosphere. Using these as the inputs, I retrieved the Atmospheric Temperature
-Profiles, which is of prime importance in the project.
+and Humidity Profiles simultaneously.
 
 ## Methodology
 For the purpose of retrieval, I choose to implement an Artificial Neural Network model (ANN) which
